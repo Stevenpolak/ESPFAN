@@ -10,12 +10,12 @@ The project is based upon EPSHome, a project by Nabu Casa.
 
 Will follow soon
 
-## //-- SENSOR AND ADDON CONFIG --// ##
-## 2x Dalles op Pin 14 (D5)
-## 1x Template Delta T sensor (Tin - Tout)
-## Pulse counter op Pin 0 (D3)
-## PWM Output fan op Pin 4 (D2)
-## Relay voor 12v op Pin 5 (D1)
+//-- SENSOR AND ADDON CONFIG --//
+2x Dalles op Pin 14 (D5)
+1x Template Delta T sensor (Tin - Tout)
+Pulse counter op Pin 0 (D3)
+PWM Output fan op Pin 4 (D2)
+Relay voor 12v op Pin 5 (D1)
 
 
 # Electronics
